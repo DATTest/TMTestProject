@@ -43,6 +43,7 @@ public class HomeController {
 	 * Test5
 	 * Bug #01 is fixed
 	 * i-001 updated
+	 * i-002 updated
 	 */
 	
 }
